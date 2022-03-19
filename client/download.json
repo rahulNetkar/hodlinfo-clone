@@ -1,0 +1,102 @@
+[
+    {
+        "_id": "6234751e338aca5922ef42c6",
+        "name": "BTC/INR",
+        "last": "3178021.0",
+        "buy": "3178042.0",
+        "sell": "3181458.0",
+        "volume": "221.47305",
+        "base_unit": "btc",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42c7",
+        "name": "XRP/INR",
+        "last": "61.2583",
+        "buy": "61.2579",
+        "sell": "61.3238",
+        "volume": "509038.2",
+        "base_unit": "xrp",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42c8",
+        "name": "ETH/INR",
+        "last": "220016.0",
+        "buy": "219696.4",
+        "sell": "220033.7",
+        "volume": "524.9565",
+        "base_unit": "eth",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42c9",
+        "name": "TRX/INR",
+        "last": "4.735",
+        "buy": "4.7323",
+        "sell": "4.735",
+        "volume": "11170750.0",
+        "base_unit": "trx",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42ca",
+        "name": "EOS/INR",
+        "last": "162.49",
+        "buy": "161.09",
+        "sell": "162.49",
+        "volume": "3887.36",
+        "base_unit": "eos",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42cb",
+        "name": "ZIL/INR",
+        "last": "3.19",
+        "buy": "3.18",
+        "sell": "3.2",
+        "volume": "1083184.0",
+        "base_unit": "zil",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42cc",
+        "name": "BAT/INR",
+        "last": "63.5",
+        "buy": "63.401",
+        "sell": "63.5",
+        "volume": "28380.57",
+        "base_unit": "bat",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42cd",
+        "name": "ZRX/INR",
+        "last": "40.95",
+        "buy": "40.51",
+        "sell": "40.93",
+        "volume": "29912.24",
+        "base_unit": "zrx",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42ce",
+        "name": "REQ/INR",
+        "last": "16.5436",
+        "buy": "16.53",
+        "sell": "16.5476",
+        "volume": "571884.57",
+        "base_unit": "req",
+        "__v": 0
+    },
+    {
+        "_id": "6234751e338aca5922ef42cf",
+        "name": "NULS/INR",
+        "last": "108.0",
+        "buy": "0.0",
+        "sell": "0.0",
+        "volume": "0.0",
+        "base_unit": "nuls",
+        "__v": 0
+    }
+]
